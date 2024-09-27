@@ -2,18 +2,19 @@
 
 <p align="left">
   <a href="https://github.com/AltrixHub/AltrixHub/">
-    <img src="https://komarev.com/ghpvc/?username=altrix" alt="altrix" />
+    <img height="20px" src="https://komarev.com/ghpvc/?username=altrix" alt="altrix" />
   </a>
   <a href="https://altrix.pages.dev/">
-    <img height="20" src="https://img.shields.io/badge/Portfolio-follow-blue" alt="portfolio" />
+    <img height="20px" src="https://img.shields.io/badge/Portfolio-Site-blue?style=flat" alt="portfolio" />
   </a>
   <a href="https://x.com/AltrixHub">
-    <img src="https://img.shields.io/badge/X-follow-blue" alt="x" />
+    <img height="20px" src="https://img.shields.io/badge/X-SNS-blue?style=flat" alt="x" />
   </a>
   <a href="https://github.com/AltrixHub">
-    <img height="20" src="https://img.shields.io/github/followers/altrix?label=follow&logo=github&style=flat" alt="github"/>
+    <img height="20px" src="https://img.shields.io/github/followers/altrix?label=follow&logo=github&style=flat" alt="github"/>
   </a>
 </p>
+
 
 ***Altri x***
 
@@ -39,9 +40,9 @@ Guided by altruism, I engage in technology, business, and creative activities.
 
 <p align="left">
   <a href="https://github.com/AltrixHub/cognet">
-    <img height="150px" alt="cognet" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=cognet&theme=dark" />
+    <img height="120px" alt="cognet" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=cognet&theme=dark" />
   </a>
   <a href="https://github.com/AltrixHub/revion">
-    <img height="150px" alt="revion" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=revion&theme=dark" />
+    <img height="120px" alt="revion" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=revion&theme=dark" />
   </a>
 </p>
