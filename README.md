@@ -4,7 +4,7 @@
   <a href="https://github.com/AltrixHub/AltrixHub/">
     <img height="20px" src="https://komarev.com/ghpvc/?username=altrix" alt="altrix" />
   </a>
-  <a href="https://altrix.pages.dev/">
+  <a href="https://altrix.org/">
     <img height="20px" src="https://img.shields.io/badge/Portfolio--blue?style=flat" alt="portfolio" />
   </a>
   <a href="https://x.com/AltrixHub">
