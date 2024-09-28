@@ -8,8 +8,7 @@
     <img height="20px" src="https://img.shields.io/badge/Portfolio--blue?style=flat" alt="portfolio" />
   </a>
   <a href="https://x.com/AltrixHub">
-    <img height="20px" src="https://img.shields.io/twitter/follow/AltrixHub?label=follow&logo=x&style=flat&color=blue
-    " alt="x"/>
+    <img height="20px" src="https://img.shields.io/twitter/follow/AltrixHub?label=follow&logo=x&style=flat&color=blue" alt="x"/>
   </a>
   <a href="https://github.com/AltrixHub">
     <img height="20px" src="https://img.shields.io/github/followers/AltrixHub?label=follow&logo=github&style=flat" alt="github"/>
