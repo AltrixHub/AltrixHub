@@ -5,14 +5,14 @@
     <img height="20px" src="https://komarev.com/ghpvc/?username=altrix" alt="altrix" />
   </a>
   <a href="https://altrix.pages.dev/">
-    <img height="20px" src="https://img.shields.io/badge/Portfolio-Site-blue?style=flat" alt="portfolio" />
+    <img height="20px" src="https://img.shields.io/badge/Portfolio--blue?style=flat" alt="portfolio" />
   </a>
   <a href="https://x.com/AltrixHub">
-    <img height="20px" src="https://img.shields.io/twitter/follow/AltrixHub?style=flat&logo=x&label=follow&color=blue
+    <img height="20px" src="https://img.shields.io/twitter/follow/AltrixHub?label=follow&logo=x&style=flat&color=blue
     " alt="x"/>
   </a>
   <a href="https://github.com/AltrixHub">
-    <img height="20px" src="https://img.shields.io/github/followers/altrix?label=follow&logo=github&style=flat" alt="github"/>
+    <img height="20px" src="https://img.shields.io/github/followers/AltrixHub?label=follow&logo=github&style=flat" alt="github"/>
   </a>
 </p>
 
@@ -28,10 +28,6 @@ Guided by altruism, I engage in technology, business, and creative activities.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,react,remix,threejs,wasm,bevy,nextjs,kubernetes,docker,vim" alt="skill"/>
 </p>
-
-## Log
-
-![profile 3d](./profile-3d-contrib/profile-night-view.svg)
 
 ## Status
 
