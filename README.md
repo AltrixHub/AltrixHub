@@ -8,13 +8,13 @@
     <img height="20px" src="https://img.shields.io/badge/Portfolio-Site-blue?style=flat" alt="portfolio" />
   </a>
   <a href="https://x.com/AltrixHub">
-    <img height="20px" src="https://img.shields.io/badge/X-SNS-blue?style=flat" alt="x" />
+    <img height="20px" src="https://img.shields.io/twitter/follow/AltrixHub?style=flat&logo=x&label=follow&color=blue
+    " alt="x"/>
   </a>
   <a href="https://github.com/AltrixHub">
     <img height="20px" src="https://img.shields.io/github/followers/altrix?label=follow&logo=github&style=flat" alt="github"/>
   </a>
 </p>
-
 
 ***Altri x***
 
@@ -28,6 +28,10 @@ Guided by altruism, I engage in technology, business, and creative activities.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,react,remix,threejs,wasm,bevy,nextjs,kubernetes,docker,vim" alt="skill"/>
 </p>
+
+## Log
+
+![profile 3d](./profile-3d-contrib/profile-night-view.svg)
 
 ## Status
 
