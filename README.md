@@ -35,7 +35,7 @@ Guided by altruism, I engage in technology, business, and creative activities.
     <img alt="lang" height="200px" src="https://github-readme-stats-altrix.vercel.app/api/top-langs/?username=AltrixHub&layout=compact&theme=dark" />
 </p>
 
-## Repo
+## OSS
 
 <p align="left">
   <a href="https://github.com/AltrixHub/cognet">
