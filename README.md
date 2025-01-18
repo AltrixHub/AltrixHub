@@ -31,17 +31,17 @@ Guided by altruism, I engage in technology, business, and creative activities.
 ## Status
 
 <p align="left">
-    <img alt="stats" height="200px" src="https://github-readme-stats-altrix.vercel.app/api?username=AltrixHub&theme=dark" />
-    <img alt="lang" height="200px" src="https://github-readme-stats-altrix.vercel.app/api/top-langs/?username=AltrixHub&layout=compact&theme=dark" />
+    <img alt="stats" height="200px" src="https://github-readme-stats-altrix.vercel.app/api?username=AltrixHub&theme=dark&exclude_repo=github-readme-stats" />
+    <img alt="lang" height="200px" src="https://github-readme-stats-altrix.vercel.app/api/top-langs/?username=AltrixHub&layout=compact&theme=dark&exclude_repo=github-readme-stats" />
 </p>
 
 ## Repo
 
 <p align="left">
   <a href="https://github.com/AltrixHub/cognet">
-    <img height="120px" alt="cognet" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=cognet&theme=dark" />
+    <img height="120px" alt="cognet" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=cognet&theme=dark&exclude_repo=github-readme-stats" />
   </a>
   <a href="https://github.com/AltrixHub/revion">
-    <img height="120px" alt="revion" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=revion&theme=dark" />
+    <img height="120px" alt="revion" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=revion&theme=dark&exclude_repo=github-readme-stats" />
   </a>
 </p>
