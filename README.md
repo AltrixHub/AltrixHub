@@ -27,14 +27,3 @@ Guided by altruism, I engage in technology, business, and creative activities.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,react,remix,threejs,wasm,bevy,nextjs,kubernetes,docker,vim" alt="skill"/>
 </p>
-
-## OSS
-
-<p align="left">
-  <a href="https://github.com/AltrixHub/revion">
-    <img height="120px" alt="revion" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=revion&theme=dark&exclude_repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/AltrixHub/cognet">
-    <img height="120px" alt="cognet" src="https://github-readme-stats-altrix.vercel.app/api/pin/?username=AltrixHub&repo=cognet&theme=dark&exclude_repo=github-readme-stats" />
-  </a>
-</p>
