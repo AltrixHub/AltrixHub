@@ -29,4 +29,4 @@ Guided by altruism, I engage in technology, business, and creative activities.
 </p>
 
 
-[![Altrix](https://typograssy.deno.dev/api?text=Create%20Everything&comment=altrix.org)](https://altrix.org/)
+[![Altrix](https://typograssy.deno.dev/api?text=Create%20Everything%20&comment=altrix.org)](https://altrix.org/)
