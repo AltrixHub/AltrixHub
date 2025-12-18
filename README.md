@@ -27,3 +27,6 @@ Guided by altruism, I engage in technology, business, and creative activities.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,react,remix,threejs,wasm,bevy,nextjs,kubernetes,docker,vim" alt="skill"/>
 </p>
+
+
+[![Altrix](https://typograssy.deno.dev/api?text=Create%20Everything&comment=altrix.org)](https://altrix.org/)
